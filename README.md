@@ -8,6 +8,16 @@
 
 ---
 
+## 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroElricDev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento de software e criação de jogos. Gosto de transformar ideias em projetos bem estruturados, priorizando **código limpo**, **organização** e **facilidade de manutenção**.
@@ -54,28 +64,7 @@ Tenho interesse em desenvolver jogos com código organizado e reutilizável, apl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroElricDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroElricDev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroElricDev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 
 <div align="center">
 
